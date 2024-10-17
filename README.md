@@ -1,0 +1,2 @@
+# installpanel
+install panel pterodactyl
